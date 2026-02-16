@@ -20,5 +20,4 @@ These KPIs provide an instant overview of business performance.
 
 - **Total Spend by Age Group**
 This visual shows which age group contributes the most revenue.
-
 From the analysis, customers aged 45+ appear to contribute the highest spending.
