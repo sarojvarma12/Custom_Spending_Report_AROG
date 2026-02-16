@@ -33,7 +33,7 @@ The regional bar chart highlights revenue contribution across:
 - East
 - South
 
-The **West region ** generates the highest total spend.
+The **West region** generates the highest total spend.
 
 - **Top 5 Customers by Total Spend**
 This section identifies high-value customers, which is useful for:
