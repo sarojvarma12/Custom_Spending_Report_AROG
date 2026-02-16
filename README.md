@@ -10,8 +10,15 @@ The dashboard helps the business understand customer behavior and identify high-
 **📌 Key KPIs:**
 At the top of the dashboard, I added summary cards to quickly show:
 
-Total Customers – 40K
-Total Spend – $401M
-Average Spend – 10K
+- Total Customers – 40K
+- Total Spend – $401M
+- Average Spend – 10K
 
 These KPIs provide an instant overview of business performance.
+
+**📊 Dashboard Insights**
+
+- **Total Spend by Age Group**
+This visual shows which age group contributes the most revenue.
+
+From the analysis, customers aged 45+ appear to contribute the highest spending.
