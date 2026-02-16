@@ -57,6 +57,5 @@ This visual compares spending across Male, Female, and Non-binary customers to u
 - A small group of customers contributes significantly higher revenue (top 5 analysis).
 - Payment preferences are evenly distributed, showing diverse customer behavior.
 
+<img width="912" height="495" alt="image" src="https://github.com/user-attachments/assets/5448e373-2c7d-4072-9cbc-86f57efd819b" />
 
-
-<img width="912" height="495" alt="image" src="https://github.com/user-attachments/assets/c704fd85-69ac-4cb5-82d5-4bee58a74689" />
